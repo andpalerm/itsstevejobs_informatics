@@ -3,7 +3,7 @@
 int main()
 {
   int v[N];
-  int somma;
+  int somma = 0;
   int i;
   
   printf("--- Inserisci %d numeri ---\n", N);
