@@ -7,6 +7,7 @@ float calcola_media(float temp[], int N) {
     }
     return somma / N;
 }
+
 float trova_massimo(float temp[], int N) {
     float MAX = temp[0];
     for(int i = 1; i < N; i++) {
